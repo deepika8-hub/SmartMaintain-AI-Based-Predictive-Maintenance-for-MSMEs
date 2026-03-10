@@ -170,7 +170,7 @@ http://127.0.0.1:5000
 
 ---
 
-8) Innovation Aspect (Important for Judges)
+8) Innovation Aspect
 
 Unlike high-cost industrial IoT systems:
 
