@@ -117,7 +117,17 @@ smartmaintain/
 
 ---
 
-6) How to Run Locally
+6) Live Demo
+
+You can try the project here:
+
+https://smartmaintain-ai-based-predictive.onrender.com 
+
+
+OR
+
+
+How to Run Locally
 
 ### Step 1 — Clone Repository
 
@@ -156,6 +166,7 @@ Open:
 ```
 http://127.0.0.1:5000
 ```
+
 
 ---
 
